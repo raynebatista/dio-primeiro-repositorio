@@ -1,4 +1,4 @@
-# bootcamp-dio-eduzz
+# bootcamp-dio-
 Repositório criado no desafio de projeto da plataforma Digital Innovation One sobre Git e Github
 
 ## Links úteis
